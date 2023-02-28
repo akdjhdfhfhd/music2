@@ -7,10 +7,10 @@
 #
 # All rights reserved.
 
-from .channelplay import *
-from .database import *
-from .decorators import *
-from .formatters import *
-from .inline import *
-from .pastebin import *
-from .sys import *
+from .Apple import AppleAPI
+from .Carbon import CarbonAPI
+from .Resso import RessoAPI
+from .Soundcloud import SoundAPI
+from .Spotify import SpotifyAPI
+from .Telegram import TeleAPI
+from .Youtube import YouTubeAPI
