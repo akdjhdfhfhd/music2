@@ -7,5 +7,6 @@
 #
 # All rights reserved.
 
-from .admins import *
-from .language import *
+from .assistantdatabase import *
+from .memorydatabase import *
+from .mongodatabase import *
